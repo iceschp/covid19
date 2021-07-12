@@ -60,7 +60,7 @@ export default function Home({
       <div className="col-start-2 col-span-4 ...">
       <div className="text-center">
       <br />
-      <h1 className="text-5xl font-bold">
+      <h1 className="text-5xl font-bold ">
         🦠 COVID-19 Outbreak 🦠
      </h1>
     <div>
